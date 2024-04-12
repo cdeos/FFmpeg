@@ -48,4 +48,4 @@ avoided because they are not part of our review process and will be ignored.
 
 # Status/Defect
 
-This project has moved into Project KanTV since 03-21-2024, so it's no longer maintained.
+This project has moved into <a href="https://github.com/zhouwg/kantv/tree/master/external/ffmpeg-6.1">Project KanTV</a> since 03-21-2024, so it's no longer maintained.
